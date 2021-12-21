@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446139614039",
+    "firebase_url": "https://planahead-b35eb.firebaseio.com",
+    "project_id": "planahead-b35eb",
+    "storage_bucket": "planahead-b35eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446139614039:android:2bf92c0108e4101c263412",
+        "android_client_info": {
+          "package_name": "com.example.planahead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446139614039-06bl5s7mngfmr5jeoj7npgniqlu8bmft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planahead",
+            "certificate_hash": "b1d1a04e55b6d5700ddb555af4ef42c369340d50"
+          }
+        },
+        {
+          "client_id": "446139614039-v1rhsj1odvo79h9pnobrffrdqq67poh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7tam1CrTr6rYQBu5DEW5t2B5_klF6bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446139614039-v1rhsj1odvo79h9pnobrffrdqq67poh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

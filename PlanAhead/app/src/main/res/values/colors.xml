@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="greenbutton">#20CE51</color>
+    <color name="blue">#76BDF7</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#fff</color>
+    <color name="grayer">#858585</color>
+    <color name="transparent">#00000000</color>
+
+    <!--    light theme -->
+    <color name="black">#000000</color>
+
+    <!--    dark theme -->
+    <color name="darkGray">#353535</color>
+    <color name="otherGray">#444444</color>
+
+    <!--    gradient one theme -->
+    <color name="navBar">#2C3F52</color>
+
+
+
+</resources>

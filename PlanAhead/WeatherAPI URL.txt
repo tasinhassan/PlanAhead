@@ -1,0 +1,6 @@
+Just ONE DAY Weather
+http://api.openweathermap.org/data/2.5/weather?q=toronto,ca&units=metric&APPID=b932b772fc6398d802ac069edefa4973
+
+
+5 DAYS Weather
+http://api.openweathermap.org/data/2.5/forecast?q=toronto,ca&units=metric&APPID=b932b772fc6398d802ac069edefa4973
